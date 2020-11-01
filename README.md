@@ -1,5 +1,4 @@
 # Bills
-A file for me to learn python
 
 This is for calculating your paycheck after bills
 
